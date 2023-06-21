@@ -8,7 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://stalwart-cendol-0320fd.netlify.app/
 
 ### The challenge
 
